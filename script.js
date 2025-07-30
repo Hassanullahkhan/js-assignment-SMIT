@@ -149,43 +149,43 @@
  
  //1. Exercise 1.
 
- let age = prompt("What is your age");
- if (age < 30) {
-    alert("Your still young man.");
- }
-else if (age > 30) {
-    alert("Your are old.");
-}
-else {
-    alert("uncorrect input");
-}
+//  let age = prompt("What is your age");
+//  if (age < 30) {
+//     alert("Your still young man.");
+//  }
+// else if (age > 30) {
+//     alert("Your are old.");
+// }
+// else {
+//     alert("uncorrect input");
+// }
 
-let evenNumber = prompt("Give me a number ");
+// let evenNumber = prompt("Give me a number ");
 
-if((evenNumber / 2) === 0) {
-    alert("this is an even number");
-}
+// if((evenNumber / 2) === 0) {
+//     alert("this is an even number");
+// }
 
-else {
-    alert("this is not an even Number");
-}
+// else {
+//     alert("this is not an even Number");
+// }
 
-alert("number comparision Game!!!");
+// alert("number comparision Game!!!");
 
-let firstNumber = prompt("give me a number");
-let secondNumber = prompt("give me another number");
+// let firstNumber = prompt("give me a number");
+// let secondNumber = prompt("give me another number");
 
-if (firstNumber > secondNumber) {
-    alert("first number is greater then second Number")
-}
-else if (secondNumber > firstNumber) {
-    alert("second number is greater then first Number")
-}
-else if (firstNumber === secondNumber) {
-    alert("both numbers are equal");
-}
+// if (firstNumber > secondNumber) {
+//     alert("first number is greater then second Number")
+// }
+// else if (secondNumber > firstNumber) {
+//     alert("second number is greater then first Number")
+// }
+// else if (firstNumber === secondNumber) {
+//     alert("both numbers are equal");
+// }
 
-else {
-        alert("incorrect input");
+// else {
+//         alert("incorrect input");
   
-}
+// }
